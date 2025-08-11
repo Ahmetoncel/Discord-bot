@@ -801,4 +801,5 @@ async def on_ready():
     bot.loop.create_task(coin_price_updater())
 
 # Botu başlat
-bot.run("MTI0OTc5NTA0NjQ3MjE1OTM0Mw.Go6geE.RE2xWzg5XsKvC5u2iD7CZ-L-fvGJyiQyt38pgw")
+bot.run("Tokeninizi girin")
+
