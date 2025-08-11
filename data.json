@@ -1,0 +1,44 @@
+{
+  "960954961552871514": {
+    "last_daily": "2025-08-06",
+    "won": 3,
+    "lost": 2,
+    "transfer_history": [
+      {
+        "to": "895721894240718888",
+        "amount": 10,
+        "timestamp": "2025-08-06 14:23:49"
+      },
+      {
+        "to": "1249795046472159343",
+        "amount": 31,
+        "timestamp": "2025-08-06 14:35:18"
+      }
+    ],
+    "bakiye": 826762.8,
+    "coins": {},
+    "yatirimlar": {
+      "BTC": 20.0
+    }
+  },
+  "895721894240718888": {
+    "bakiye": 570,
+    "daily_claimed": false,
+    "wins": 0,
+    "losses": 0
+  },
+  "1249795046472159343": {
+    "bakiye": 31,
+    "daily_claimed": false,
+    "wins": 0,
+    "losses": 0,
+    "transfer_history": [],
+    "received_history": [
+      {
+        "from": "960954961552871514",
+        "amount": 31,
+        "timestamp": "2025-08-06 14:35:18"
+      }
+    ]
+  }
+}
