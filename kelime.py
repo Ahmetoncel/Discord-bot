@@ -7,6 +7,9 @@ import os
 from datetime import datetime
 from discord.ui import Button, View
 from coin_config import coin_behaviors
+from dotenv import load_dotenv
+import os
+
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -845,3 +848,4 @@ load_dotenv()  # .env dosyasını yükler
 token = os.getenv("DISCORD_TOKEN")
 
 bot.run(token)
+
